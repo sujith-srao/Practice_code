@@ -5,3 +5,5 @@ git pull --> this should copy all the file to the folder.
 git add --> add the file you need to add.
 git commit --> this will commit the changes. But it is not synched to server.
 git push --> this will push the changes to server.
+
+this is not tested.
